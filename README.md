@@ -1,2 +1,2 @@
 # first-repository
-My first README. 
+Hello, i´m Ricardo, and this is My first README. 
